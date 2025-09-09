@@ -10,7 +10,6 @@ Each project is in its own folder with source code and a live demo link (hosted 
 ### 1. Random Emoji Generator 😀
 - Generates a random emoji at the click of a button.
 - **Tech Used:** HTML, CSS, JavaScript
-- 🔗 [Live Demo](https://Piyush495.github.io/frontend-practice-projects/random-emoji-generator/)
 - 📁 [Source Code](./random-emoji-generator)
 
 ---
@@ -35,15 +34,6 @@ Each project is in its own folder with source code and a live demo link (hosted 
 
 ---
 
-## 🌟 Future Projects
-
-* ✅ Random Emoji Generator
-* ⏳ Digital Clock
-* ⏳ To-Do App
-* ⏳ Quote Generator
-* ⏳ Weather App
-
----
 
 ## 📌 About
 
