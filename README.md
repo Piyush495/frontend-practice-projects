@@ -1,7 +1,7 @@
 # Frontend Practice Projects 🚀
 
 A collection of small frontend projects built with **HTML, CSS, and JavaScript** while practicing web development.  
-Each project is in its own folder with source code and a live demo link (hosted on GitHub Pages).
+Each project is in its own folder with source code.
 
 ---
 
@@ -11,6 +11,12 @@ Each project is in its own folder with source code and a live demo link (hosted 
 - Generates a random emoji at the click of a button.
 - **Tech Used:** HTML, CSS, JavaScript
 - 📁 [Source Code](./random-emoji-generator)
+
+
+### 2. Random Cat Fact Generator 
+- Generates a random cat fact at the click of a button.
+- **Tech Used:** HTML, CSS, JavaScript
+- 📁 [Source Code](./random-cat-fact-generator)
 
 ---
 
