@@ -18,6 +18,11 @@ Each project is in its own folder with source code.
 - **Tech Used:** HTML, CSS, JavaScript
 - 📁 [Source Code](./random-cat-fact-generator)
 
+### 3. Password Generator 
+- Generates a Strong Password at the click of a button.
+- **Tech Used:** HTML, CSS, JavaScript
+- 📁 [Source Code](./password-generator)
+
 ---
 
 ## 🛠️ How to Run Locally
