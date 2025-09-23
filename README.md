@@ -23,6 +23,11 @@ Each project is in its own folder with source code.
 - **Tech Used:** HTML, CSS, JavaScript
 - 📁 [Source Code](./password-generator)
 
+### 4. To-Do List
+- Add,remove daily tasks and also marks them as completed.
+- **Tech Used:** HTML, CSS, JavaScript
+- 📁 [Source Code](./to-do-list)
+
 ---
 
 ## 🛠️ How to Run Locally
