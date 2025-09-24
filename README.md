@@ -28,6 +28,11 @@ Each project is in its own folder with source code.
 - **Tech Used:** HTML, CSS, JavaScript
 - 📁 [Source Code](./to-do-list)
 
+### 5.Basic Calculator
+- A simple calculator built for basic arithmetic operations.
+- **Tech Used:** HTML, CSS, JavaScript
+- 📁 [Source Code](./basic-calculator)
+
 ---
 
 ## 🛠️ How to Run Locally
