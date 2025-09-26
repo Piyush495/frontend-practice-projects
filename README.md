@@ -33,6 +33,11 @@ Each project is in its own folder with source code.
 - **Tech Used:** HTML, CSS, JavaScript
 - 📁 [Source Code](./basic-calculator)
 
+### 6.Simple Quiz App
+- A Simple Quiz App that displays multiple-choice questions with instant feedback and final score.
+- **Tech Used:** HTML, CSS, JavaScript
+- 📁 [Source Code](./quiz-app)
+
 ---
 
 ## 🛠️ How to Run Locally

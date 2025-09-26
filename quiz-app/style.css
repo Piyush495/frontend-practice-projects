@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    /* height: 400px; */
+    width: 500px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+}
+.underline{
+    margin: 10px 30px 10px 30px;
+    border: 1px solid black;
+}
+.answers{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 90%;
+    height: 40px;
+    margin: 10px 0 0 0;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.button-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#submit{
+    margin: 15px 0 20px 0;
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+p{
+    margin-left: 10px;
+}
+.right{
+    background-color: lawngreen;
+
+}
+.wrong{
+    background-color: red;
+}
+.disabled{
+    cursor: not-allowed;
+}
+.completed{
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
