@@ -38,6 +38,11 @@ Each project is in its own folder with source code.
 - **Tech Used:** HTML, CSS, JavaScript
 - 📁 [Source Code](./quiz-app)
 
+### 7.Weather App
+- A Weather App that provides current weather conditions for any city .
+- **Tech Used:** HTML, CSS, JavaScript
+- 📁 [Source Code](./Weather-App)
+
 ---
 
 ## 🛠️ How to Run Locally
